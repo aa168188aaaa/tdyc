@@ -1,0 +1,65 @@
+﻿* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+html {
+  width: 1300px;
+  margin: 0 auto;
+}
+.top {
+  height: 50px;
+}
+.banner {
+  margin-top: 130px;
+  height: 600px;
+}
+.banner .left {
+  float: left;
+}
+.left h1 {
+  font-size: 50px;
+}
+.left button {
+  margin-top: 30px;
+  border-radius: 10px;
+  width: 150px;
+  height: 40px;
+  background-color: blue;
+}
+a{
+    
+    
+    cursor: pointer;
+}
+
+
+.left button a {
+  color: #fff;
+  font-size: 15px;
+}
+.left .p {
+  margin-top: 20px;
+}
+.left .jing {
+  margin-top: 40px;
+}
+.left .te {
+  color: blue;
+}
+.banner .right {
+  float: right;
+}
+.banner .right img {
+  width: 700px;
+}
+.footer {
+  width: 1300px;
+  overflow: hidden;
+}
+.footer img {
+  width: 1300px;
+}
